@@ -29,5 +29,4 @@ Train and test the Linear Regression Model.
 📈 Results and Findings
 
 The Linear regression model reach an 70% rate.
-Location and Size are strong predictors of house price.
 The AreaGross and the number of bathrooms are good predictors of the price.
